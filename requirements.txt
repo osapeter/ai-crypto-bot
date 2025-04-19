@@ -1,7 +1,7 @@
 streamlit
 stripe
 python-dotenv
-binance
+python-binance
 ccxt
 cryptography
 pandas
